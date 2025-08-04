@@ -1,6 +1,6 @@
 # Data Pipeline: API → RDS → Airbyte → Redshift
 
-This project implements a modern data pipeline that:
+This project implements a data pipeline that:
 
 1. **Fetches data from a public API**
 2. **Stores it in a PostgreSQL RDS instance using Apache Airflow**
