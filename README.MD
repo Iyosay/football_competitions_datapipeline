@@ -29,5 +29,5 @@ This project implements a data pipeline that:
 - Airbyte is configured to:
   - Connect to the RDS instance as the **source**
   - Connect to Amazon Redshift as the **destination**
-  - Perform periodic syncs
+  
 
